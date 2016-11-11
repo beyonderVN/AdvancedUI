@@ -1,1 +1,1 @@
-include ':mobile', ':appcore'
+include ':advancedui', ':libs'
